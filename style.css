@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(186, 165, 132);
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+}
+h1{
+  display: flex;
+  justify-content: center;
+}
+
+.homeimg {
+  width: 300px;
+  padding: 1rem;
+}
+
+.imgorient { 
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
